@@ -1,6 +1,4 @@
-<ul>
-  <li>Instagram</li>
-  <li>Linkedin</li>
-  <li>Twitter</li>
-  </ul>
+* Instagram
+* Linkedin
+* Twitter
   
